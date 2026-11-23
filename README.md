@@ -16,7 +16,11 @@
 
 #### AI & Deep Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn&theme=dark" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 #### Data Science
@@ -29,7 +33,10 @@
 
 #### Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,anaconda&theme=dark" alt="Backend and Infra" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-0F172A?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
 ---
