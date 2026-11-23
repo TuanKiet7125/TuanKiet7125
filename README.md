@@ -1,13 +1,38 @@
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kietvu07012005/) 
+# Hi, I'm Kiet Vu 👋
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=TuanKiet7125&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TuanKiet7125&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**AI & Machine Learning Enthusiast**  
+Building intelligent systems with Python, data, and deep learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kietvu07012005/)
+[![GitHub](https://img.shields.io/badge/GitHub-TuanKiet7125-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/TuanKiet7125)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TuanKiet7125&icon=0&color=3)](https://visitcount.itsvg.in)
+
+### Tech Stack
+
+**Machine Learning & Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn&theme=dark" alt="ML Skills" />
+
+**Data Science & Analytics**
+
+![NumPy](https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-334155?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-334155?style=flat-square&logo=plotly&logoColor=white)
+
+**Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,anaconda&theme=dark" alt="Backend and Cloud" />
+
+---
+
+### GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=TuanKiet7125&show_icons=true&hide_border=true&theme=transparent" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&layout=compact&hide_border=true&theme=transparent" height="160" />
+
+---
+
+*Always learning. Always building.*
