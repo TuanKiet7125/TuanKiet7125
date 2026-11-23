@@ -1,54 +1,48 @@
 
-<div align="center">
+# Kiet Vu
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,100:155E75&text=Kiet%20Vu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=16&descAlignY=60)
+`AI / ML` &nbsp; `Python` &nbsp; `Backend`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+with+Python+and+AI;Exploring+Machine+Learning;Turning+ideas+into+projects)](https://git.io/typing-svg)
+> Exploring intelligent systems, data-driven solutions,
+> and practical machine learning applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/kietvu07012005/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/TuanKiet7125)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/kietvu07012005/) · [GitHub](https://github.com/TuanKiet7125)
 
 ---
 
-### ⚡ My Tech Arsenal
+## 01 / Technical Skills
 
-#### AI & Deep Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn&theme=dark" alt="AI and ML" />
-</p>
+| Domain | Technologies |
+|:---|:---|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-1E293B?style=flat-square&logo=keras&logoColor=white) |
+| **Machine Learning** | ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Data & Analytics** | ![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-1E293B?style=flat-square&logo=scipy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-1E293B?style=flat-square&logo=plotly&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & Tools** | ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-1E293B?style=flat-square&logo=anaconda&logoColor=white) |
 
-#### Data Science
-<p>
-  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-0F172A?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+---
 
-#### Backend & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,anaconda&theme=dark" alt="Backend and Infra" />
+## 02 / My Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,keras,fastapi,docker,aws,anaconda&theme=dark&perline=9" alt="Technical toolkit" />
 </p>
 
 ---
 
-### 📈 GitHub Activity
+## 03 / GitHub Insights
 
-<div align="center">
+<details>
+<summary><b>View my GitHub statistics</b></summary>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TuanKiet7125&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&layout=compact&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=TuanKiet7125&show_icons=true&theme=transparent&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=TuanKiet7125&theme=github-dark-blue&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&layout=compact&theme=transparent&hide_border=true" />
 
-</div>
+</details>
 
 ---
 
-<div align="center">
-
-**Code. Learn. Build. Repeat.**
-
-</div>
+<sub>Learning continuously · Building thoughtfully</sub>
