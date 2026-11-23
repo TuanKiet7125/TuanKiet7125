@@ -1,38 +1,54 @@
 
-# Hi, I'm Kiet Vu 👋
+<div align="center">
 
-**AI & Machine Learning Enthusiast**  
-Building intelligent systems with Python, data, and deep learning.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,100:155E75&text=Kiet%20Vu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=16&descAlignY=60)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kietvu07012005/)
-[![GitHub](https://img.shields.io/badge/GitHub-TuanKiet7125-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/TuanKiet7125)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+with+Python+and+AI;Exploring+Machine+Learning;Turning+ideas+into+projects)](https://git.io/typing-svg)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/kietvu07012005/)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/TuanKiet7125)
 
-### Tech Stack
-
-**Machine Learning & Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn&theme=dark" alt="ML Skills" />
-
-**Data Science & Analytics**
-
-![NumPy](https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-334155?style=flat-square&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-334155?style=flat-square&logo=plotly&logoColor=white)
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,anaconda&theme=dark" alt="Backend and Cloud" />
+</div>
 
 ---
 
-### GitHub Analytics
+### ⚡ My Tech Arsenal
 
-<img src="https://github-readme-stats.vercel.app/api?username=TuanKiet7125&show_icons=true&hide_border=true&theme=transparent" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&layout=compact&hide_border=true&theme=transparent" height="160" />
+#### AI & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn&theme=dark" alt="AI and ML" />
+</p>
+
+#### Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0F172A?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+#### Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,anaconda&theme=dark" alt="Backend and Infra" />
+</p>
 
 ---
 
-*Always learning. Always building.*
+### 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TuanKiet7125&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKiet7125&layout=compact&theme=github_dark&hide_border=true" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=TuanKiet7125&theme=github-dark-blue&hide_border=true" height="170" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Code. Learn. Build. Repeat.**
+
+</div>
