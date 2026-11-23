@@ -22,7 +22,6 @@ I'm an **Artificial Intelligence student at FPT University** (GPA: 3.6/4.0, expe
 - **Career Goal:** AI Engineer.
 
 <br>
-
 ---
 
 ## <kbd>02</kbd> TECH STACK
