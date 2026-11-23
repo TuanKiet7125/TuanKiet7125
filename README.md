@@ -14,7 +14,7 @@
 
 ## <kbd>01</kbd> ABOUT ME
 
-I'm an **Artificial Intelligence student at FPT University** (GPA: 3.6/4.0, expected graduation: 2027), passionate about building efficient and practical AI solutions.
+I'm an **Artificial Intelligence student at FPT University** (expected graduation: 2027), passionate about building efficient and practical AI solutions.
 
 - **Focus:** Large Language Models, RAG, NLP, and Machine Learning.
 - **Experience:** Building AI-powered applications, hybrid retrieval systems, and cloud-deployed AI services.
@@ -22,6 +22,7 @@ I'm an **Artificial Intelligence student at FPT University** (GPA: 3.6/4.0, expe
 - **Career Goal:** AI Engineer.
 
 <br>
+
 ---
 
 ## <kbd>02</kbd> TECH STACK
